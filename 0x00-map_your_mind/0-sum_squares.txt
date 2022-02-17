@@ -1,0 +1,13 @@
+Set “n” to be equal to the number inputted
+Set “sum” to zero
+
+Using a For loop to calculate the sum of squares of “n” numbers
+For loop conditions to execute it; 
+        i is equal to 0, 
+        i should be less than “n”, 
+        for every step add one to i 
+   Multiply value of i by i
+   New value of sum is; sum plus i x i
+   Repeat for loop process until value of i is equal to n,
+Exit the loop;
+Print or return last value of “sum”
